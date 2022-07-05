@@ -1,0 +1,47 @@
+*{margin: 0%;
+padding: 0%;}
+body{ 
+    background-color: moccasin;
+    font-family: arial, helvetica, sans-serif;
+}
+header{
+    background-color:white;
+    border-color: red solid;
+    list-style: inline-block;
+ }
+
+main{
+    width: 70%;
+    float:left;
+    position:static
+}
+div{
+   
+    
+}
+form { list-style-type: style;
+    display:inline-table;
+    text-align:justify;
+    font-family: Verdana, Tahoma, sans-serif; 
+    font-size: medium;
+   
+    
+}
+
+aside{
+    background-color: rgb(211, 211, 211);
+    width: 30%;
+    float: left;
+  
+    
+}
+footer{
+   
+    width: 100;
+    text-align: center;
+    position:static;
+    bottom: 0px;
+   
+    color: rgb(255, 255, 255);
+    background-color:darkred ;
+}
